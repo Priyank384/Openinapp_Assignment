@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Openinapp_Assignment/static/css/main.716f6feb.css",
+    "main.js": "/Openinapp_Assignment/static/js/main.5e24df7d.js",
+    "index.html": "/Openinapp_Assignment/index.html",
+    "main.716f6feb.css.map": "/Openinapp_Assignment/static/css/main.716f6feb.css.map",
+    "main.5e24df7d.js.map": "/Openinapp_Assignment/static/js/main.5e24df7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716f6feb.css",
+    "static/js/main.5e24df7d.js"
+  ]
+}
